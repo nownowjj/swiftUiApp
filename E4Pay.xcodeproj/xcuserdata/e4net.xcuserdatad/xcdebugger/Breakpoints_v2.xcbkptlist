@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A7216364-1158-4E03-A941-054924B3E617"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E74E9D1A-0FCD-4156-8EAA-D2FBDD0F30E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84BDFDE4-4112-4F8D-ACD2-48913E38C2E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/Common/CustomNavigationBar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "CustomNavigationBar"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6232FD83-765A-453C-BE62-75D8B5D35E7E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/mvvm/viewModel/DaumWebViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "action(state:param:param2:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6232FD83-765A-453C-BE62-75D8B5D35E7E - 45fa1420e8e5a348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.DaumWebViewModel.action&lt;&#x3c4;_0_0&gt;(state: E4Pay.DaumWebViewModel.state, param: &#x3c4;_0_0, param2: Swift.Optional&lt;&#x3c4;_0_0&gt;) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/viewModel/DaumWebViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "6232FD83-765A-453C-BE62-75D8B5D35E7E - 45fa1420e8e5a348"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.DaumWebViewModel.action&lt;&#x3c4;_0_0&gt;(state: E4Pay.DaumWebViewModel.state, param: &#x3c4;_0_0, param2: Swift.Optional&lt;&#x3c4;_0_0&gt;) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/viewModel/DaumWebViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D31563DE-4491-4A06-BC6D-F63444EAA7DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/mvvm/viewModel/DaumWebViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "action(state:param:param2:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E94645B-CF96-4B18-90D9-AC0B0EB09650"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/mvvm/model/ContentController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "userContentController(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E94645B-CF96-4B18-90D9-AC0B0EB09650 - 650ad3c4090de3c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "4E94645B-CF96-4B18-90D9-AC0B0EB09650 - 650ad3c4090de3ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+               <Location
+                  uuid = "4E94645B-CF96-4B18-90D9-AC0B0EB09650 - 650ad3c4090de3ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56249F4E-FA07-483A-9EAC-B20FBD7E2491"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/mvvm/model/ContentController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "userContentController(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56249F4E-FA07-483A-9EAC-B20FBD7E2491 - 650ad3c4090de006"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "56249F4E-FA07-483A-9EAC-B20FBD7E2491 - 650ad3c4090de3c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "56249F4E-FA07-483A-9EAC-B20FBD7E2491 - 650ad3c4090de3c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1540">
+               </Location>
+               <Location
+                  uuid = "56249F4E-FA07-483A-9EAC-B20FBD7E2491 - 650ad3c4090de3c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85CDBB45-F6E5-4B49-9293-A25FC40DD3F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/mvvm/model/ContentController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "userContentController(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85CDBB45-F6E5-4B49-9293-A25FC40DD3F3 - 650ad3c4090de3e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "85CDBB45-F6E5-4B49-9293-A25FC40DD3F3 - 650ad3c4090de3e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1836">
+               </Location>
+               <Location
+                  uuid = "85CDBB45-F6E5-4B49-9293-A25FC40DD3F3 - 650ad3c4090de3e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "283C9DE3-6FCE-466F-A903-1CFEB4FDE79D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/mvvm/model/ContentController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "userContentController(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "283C9DE3-6FCE-466F-A903-1CFEB4FDE79D - 650ad3c4090de040"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+               <Location
+                  uuid = "283C9DE3-6FCE-466F-A903-1CFEB4FDE79D - 650ad3c4090de040"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "2380">
+               </Location>
+               <Location
+                  uuid = "283C9DE3-6FCE-466F-A903-1CFEB4FDE79D - 650ad3c4090de006"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52A5182B-35D7-4B75-8FA4-39ACC926B8E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/mvvm/model/ContentController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "userContentController(_:didReceive:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52A5182B-35D7-4B75-8FA4-39ACC926B8E8 - 650ad3c4090de061"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+               <Location
+                  uuid = "52A5182B-35D7-4B75-8FA4-39ACC926B8E8 - 650ad3c4090de061"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "2456">
+               </Location>
+               <Location
+                  uuid = "52A5182B-35D7-4B75-8FA4-39ACC926B8E8 - 650ad3c4090de027"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "E4Pay.ContentController.userContentController(_: __C.WKUserContentController, didReceive: __C.WKScriptMessage) -&gt; ()"
+                  moduleName = "E4Pay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e4net/Dev/E4Pay/E4Pay/mvvm/model/ContentController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15D4B1A7-A2AF-4CD0-842E-8145550C5ADE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "E4Pay/mvvm/viewModel/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "action(state:param:param2:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -7,11 +7,16 @@
 
 import SwiftUI
 
+
 @main
 struct E4PayApp: App {
+//    @StateObject var userData: UserData = UserData(hpNo: "", mbrNm: "", monySertNo: "", instId: "", instNm: "", acntNo: "")
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .onAppear(perform: UIApplication.shared.addTapGestureRecognizer)
+//                .environmentObject(userData)
         }
     }
 }
